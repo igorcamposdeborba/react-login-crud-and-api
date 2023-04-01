@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "Paul",
+      "surname": "DEITEL",
+      "title": "Java: como programar",
+      "publisher": "Person",
+      "edition": 10,
+      "year": 2020
+    },
+    {
+      "id": 2,
+      "author": "Herbert",
+      "surname": "SCHILDT",
+      "title": "Java para iniciantes: crie, compile e execute programas Java rapidamente",
+      "publisher": "Sapienza",
+      "edition": "3",
+      "year": "2014"
+    },
+    {
+      "author": "ZXX",
+      "surname": "ZX",
+      "title": "ZX",
+      "publisher": "ZX",
+      "edition": "13",
+      "year": "23123",
+      "id": 3
+    }
+  ]
+}
