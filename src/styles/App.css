@@ -70,7 +70,7 @@ footer.footer {
     }
 }
 
-/*
+
 @media(max-width: 576px) {
     .app > .page {
         grid-template-rows: 
@@ -78,11 +78,11 @@ footer.footer {
             var(--menu-top-height)
             1fr
             var(--footer-height);
-        grid-template-columns: 1fr;
+        grid-template-columns: 100%;
         grid-template-areas: 
             "logo"
             "menu"
             "content"
             "footer";
     }
-}*/
+}   
