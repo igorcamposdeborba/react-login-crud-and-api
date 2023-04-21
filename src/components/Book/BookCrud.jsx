@@ -153,7 +153,7 @@ export default class BookCrud extends Component {
     componentDidMount(){
         axios.get(baseUrl, {
             headers:  {
-              'X-RapidAPI-Key': 'e724e89df4mshdf38b34ad98fa9ep192f94jsn007c59b72635',
+              'X-RapidAPI-Key': '',
               'X-RapidAPI-Host': 'hapi-books.p.rapidapi.com'
             }
         }).then(response => { // requisição para resgatar dados do banco de dados da api de livros
